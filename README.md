@@ -7,7 +7,7 @@ Code and data attached to the article Verschuur, Koks and Hall (2022), Ports’ 
 
 -The 'Port_IO_tables' folder contains the code to link the transport model output to the EORA Input-Output tables (https://worldmrio.com/). The downloaded EORA26 file should be placed in the Input folder. This data is not there given the academic license used to download EORA26. 
 
-The model output data that is used to create all figures in the article can be found on Mendeley data (doi: 10.17632/vzzy3b9gg4.1)
+The model output data that is used to create all figures in the article can be found on Mendeley data: https://data.mendeley.com/datasets/vzzy3b9gg4/1
 
 
 If you would like to receive the full input data or have any questions or comments, please get in touch:
